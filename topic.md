@@ -11,6 +11,7 @@
 
 > While in Krabi, we got to explore the hot and popular Phi Phi Islands. This was a tour that we will never forget. We were able to see 7 different islands along with seeing crazy monkeys! Next stop, Chiang Mai!
 
+![Alt text](krabi.jpg "Blue Lagoon")
 
 ### Chiang Mai
 
@@ -20,6 +21,8 @@
 ### Bangkok
 
 > Bangkok is our last stop in our trip. The city is full of culture and different people everywhere. The Thai people were so friendly and helpful than expected. Unfortunalty, there was only time to explore the night life. This trip was an unforgetable trip. 
+
+[!Alt text](phuketfood.jpg "Food")
 
 ---
 
