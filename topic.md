@@ -12,7 +12,7 @@
 
 ### Chiang Mai
 
-> We stayed the [Chai Lai Orchid](https://www.chailaiorchid.com/chai-lai-orchid/) Santurary for elephants. This establishment was originally found for Thai women who have expierenced domestic violence and are attempting to regain control of thier lifes. Along with saving women, this place saves elephants who have underwent cruelty from [trekking](https://www.telegraph.co.uk/expat/expatlife/11048530/The-dark-side-of-animal-tourism-in-Thailand.html "click here to learn more about trekking). Also, they save cats and dog whom were abandonded in the streets of Thailand. This place is definietly a must go to help support the local women within the community and to say no to trekking. Last stop, Bangkok!
+> We stayed the [Chai Lai Orchid](https://www.chailaiorchid.com/chai-lai-orchid/) Santurary for elephants. This establishment was originally found for Thai women who have expierenced domestic violence and are attempting to regain control of thier lifes. Along with saving women, this place saves elephants who have underwent cruelty from [trekking](https://www.telegraph.co.uk/expat/expatlife/11048530/The-dark-side-of-animal-tourism-in-Thailand.html "click here to learn more about trekking"). Also, they save cats and dog whom were abandonded in the streets of Thailand. This place is definietly a must go to help support the local women within the community and to say no to trekking. Last stop, Bangkok!
 
 
 ### Bangkok
