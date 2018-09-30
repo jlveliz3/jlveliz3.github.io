@@ -12,3 +12,5 @@ We stayed at a Resort right off of the beach! We also got to enjoy our FIRST aut
 - [TOPIC](https://jlveliz3.github.io/topic.md)
 
 ![Alt text](thailand.jpg "Nature and the elephants")
+
+_config.yml
