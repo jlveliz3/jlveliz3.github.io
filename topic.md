@@ -22,7 +22,7 @@
 
 > Bangkok is our last stop in our trip. The city is full of culture and different people everywhere. The Thai people were so friendly and helpful than expected. Unfortunalty, there was only time to explore the night life. This trip was an unforgetable trip. 
 
-[!Alt text](phuketfood.jpg "Food")
+![Alt text](phuketfood.jpg "Food")
 
 ---
 
