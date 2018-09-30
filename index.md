@@ -4,5 +4,5 @@ After many years, I finally had the opportunity to travel to Thailand! Much plan
 ## Phuket 
 We stayed at a Resort right off of the beach! We also got to enjoy our FIRST authentic Thai meal at Annes Thai Food. 
 
-![Alt text](phuket food.jpg "Annes Thai Food")
+![Alt text](phuketfood.jpg "Annes Thai Food")
 
