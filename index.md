@@ -6,5 +6,10 @@ After many years, I finally had the opportunity to travel to Thailand! Much plan
 The atmosphere and the local people were absolutely amazing!
 We stayed at a Resort right off of the beach! We also got to enjoy our FIRST authentic Thai meal at Annes Thai Food. 
 
+### Check out my other cool pages!
+
+- [BIO](https://jlveliz3.github.io/bio.md)
+- [TOPIC](https://jlveliz3.github.io/topic.md)
+
 ![Alt text](thailand.jpg "Nature and the elephants")
 
