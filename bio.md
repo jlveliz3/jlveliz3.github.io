@@ -16,6 +16,15 @@
 
 > Becoming a Marine was one of the best choices I made. It changed me to become a good citizen for society. I have currently served 7 faithful years and plan to do a full 20. Look out world! 
 
+
+### Future Goals
+
+> Below are just a few goals I expect to accomplish within the next two decades.
+
++ Complete my degree in Buisness Management
++ Begin to pursue my dreams in becoming a veterinarian
++ Have a beautiful family with my husband
+
 ---
 
 [HOME](https://jlveliz3.github.io/index.md "Takes you back to my homepage")
