@@ -8,8 +8,8 @@
 
 ### The Charlotte Life
 
-> Upon arriving to North Carolina, I noticed an immediate difference from California. It was unbeliveable. From growing up in a small quiet town, our lifes changed to living in a fast pace city. The city of **Charlotte**, (http://charlottenc.gov/Pages/Home.aspx). We quickly adjusted to the new tempo and made friends all around us. 
-> A decade later, at the age of 17, I decided to make a life altering decision. I enlisted in the military, the **United States Marines Corps** to be exact. The most elite force in the United States. Couldn't have been more prouder. Learn more about the Marine Corps by clicking on the following link, (https://www.marines.com)
+> Upon arriving to North Carolina, I noticed an immediate difference from California. It was unbeliveable. From growing up in a small quiet town, our lifes changed to living in a fast pace city. The city of **Charlotte**, <http://charlottenc.gov/Pages/Home.aspx>. We quickly adjusted to the new tempo and made friends all around us. 
+> A decade later, at the age of 17, I decided to make a life altering decision. I enlisted in the military, the **United States Marines Corps** to be exact. The most elite force in the United States. Couldn't have been more prouder. Learn more about the Marine Corps by clicking on the following link, <https://www.marines.com>.
 
 
 ### Military Life
