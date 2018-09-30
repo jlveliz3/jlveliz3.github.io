@@ -13,4 +13,4 @@ We stayed at a Resort right off of the beach! We also got to enjoy our FIRST aut
 
 ![Alt text](thailand.jpg "Nature and the elephants")
 
-theme: jekyll-theme-time-machine
+remote_theme: jekyll-theme-time-machine
