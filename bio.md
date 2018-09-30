@@ -16,6 +16,7 @@
 
 > Becoming a Marine was one of the best choices I made. It changed me to become a good citizen for society. I have currently served 7 faithful years and plan to do a full 20. Look out world! 
 
+![Alt text](usmc.jpg)
 
 ### Future Goals
 
