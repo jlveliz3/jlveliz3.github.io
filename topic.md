@@ -2,7 +2,9 @@
 
 ### Phuket
 
-> Phuket was the first destination. Beautiful area which was full of tourism. While in Phuket, we were able to explore Patonga Beach and see the Big Budha. The Big Budha is the **god** that the locals worship. Along with the Budha, there were many other gods and monks within the area. Shortly after, we began our journey to Krabi!
+> Phuket was the first destination. Beautiful area which was full of tourism. While in Phuket, we were able to explore Patonga Beach and see the Big Budha. The Big Buddha is the **god** that the locals worship. Along with the Buddha, there were many other gods and monks within the area. Shortly after, we began our journey to Krabi!
+
+![Alt text](bigbuddha.jpg "Big Buddha")
 
 
 ### Krabi
