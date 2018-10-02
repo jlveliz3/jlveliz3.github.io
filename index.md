@@ -9,6 +9,6 @@ We stayed at a Resort right off of the beach! We also got to enjoy our FIRST aut
 ### Check out my other cool pages!
 
 - [BIO](https://jlveliz3.github.io/bio)
-- [TOPIC](https://jlveliz3.github.io/topic.md)
+- [TOPIC](https://jlveliz3.github.io/topic)
 
 ![Alt text](thailand.jpg "Nature and the elephants")
