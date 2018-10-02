@@ -28,4 +28,4 @@
 
 ---
 
-[HOME](https://jlveliz3.github.io/index.md "Takes you back to my homepage")
+[HOME](https://jlveliz3.github.io "Takes you back to my homepage")
