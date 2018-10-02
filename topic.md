@@ -26,4 +26,4 @@
 
 ---
 
-[HOME](https://jlveliz3.github.io/ "this will take you back to my homepage")
+[HOME](https://jlveliz3.github.io "this will take you back to my homepage")
